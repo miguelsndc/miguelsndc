@@ -11,6 +11,7 @@
 | The Return of The King                                                                                          |     | J. R. R. Tolkien         | 24%      | [here](https://www.amazon.com.br/Return-King-Being-Third-Rings/dp/054792819X)                    |
 | The Pragmatic Programmer                                                                                        |     | Andrew Hunt, David Tomas | 13%      | [here](https://www.amazon.com.br/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052) |
 | The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses |     | Eric Ries                | 3%       | [here](https://www.amazon.com.br/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) |
+| The Silmarillion                                                                                                |     | J. R. R. Tolkien         | 8%       | [here](https://www.amazon.com.br/Silmarillion-J-R-Tolkien/dp/0544338014)                         |
 
 - I'm interested in diving into web and mobile development. Despite that, I really like technology in general so I get along well with pretty much any area;
 - I learn best by doing. Most of my projects are ideas and designs across the internet that I thought would be cool to bring to life.
