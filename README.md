@@ -1,14 +1,14 @@
 <h1>Hi! My name is Miguel!</h1>
 	
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
-- I'm a technical/vocational/certified System Developer and Analyst by the State Technical School at [Porto Digital](portodigital.org).
-- You can talk to me at: mnogueira.tech@gmail.com;
-- Currently learning Svelte and React, going further to write tech articles & starting a freelance career;
+- I'm currently under a bachelor's degree in Computer Science by CIn UFPE, But im also a certified Systems Developer by ETE Porto Digital.
+- You can talk to me at: msnc@cin.ufpe.br;
+- Currently Learning about Machine Learning and AI with Python, (trying) to do some cool stuff, i'm also proficient at Front-end Development with Next/React;
 - Reading:
 
 | Book                                                                                                            |     | Author                   | Progress | Link                                                                                             |
 | --------------------------------------------------------------------------------------------------------------- | --- | ------------------------ | -------- | ------------------------------------------------------------------------------------------------ |
-| The Return of The King                                                                                          |     | J. R. R. Tolkien         | 35%      | [here](https://www.amazon.com.br/Return-King-Being-Third-Rings/dp/054792819X)                    |
+| The Return of The King                                                                                          |     | J. R. R. Tolkien         | 100%      | [here](https://www.amazon.com.br/Return-King-Being-Third-Rings/dp/054792819X)                    |
 | The Pragmatic Programmer                                                                                        |     | Andrew Hunt, David Tomas | 13%      | [here](https://www.amazon.com.br/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052) |
 | The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses |     | Eric Ries                | 3%       | [here](https://www.amazon.com.br/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) |
 | The Silmarillion                                                                                                |     | J. R. R. Tolkien         | 8%       | [here](https://www.amazon.com.br/Silmarillion-J-R-Tolkien/dp/0544338014)                         |
