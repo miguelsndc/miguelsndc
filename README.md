@@ -8,10 +8,10 @@
 
 | Book                                                                                                            |     | Author                   | Progress | Link                                                                                             |
 | --------------------------------------------------------------------------------------------------------------- | --- | ------------------------ | -------- | ------------------------------------------------------------------------------------------------ |
-| Calculus (Vol 1) - Guidorizzi                                                                                         |     | Hamilton Luiz Guidorizzi         | 78%      | [here](https://www.amazon.com.br/Um-Curso-C%C3%A1lculo-Vol-Guidorizzi/dp/8521612591)                    |
+| Calculus (Vol 1) - Guidorizzi                                                                                         |     | Hamilton Luiz Guidorizzi         | 84%      | [here](https://www.amazon.com.br/Um-Curso-C%C3%A1lculo-Vol-Guidorizzi/dp/8521612591)                    |
 | Introduction to Statistical Learning                                                                                        |     | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | 10%      | [here](https://www.statlearning.com/) |
 | Hands-on Machine Learning |     | Eric Ries                | 5%       | [here](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) |
-| Introduction to the Design and Analysis of Algorithms                                                                                              |     | Anany Levitin         | 3%       | [here](https://www.amazon.com/Introduction-Design-Analysis-Algorithms-3rd/dp/0132316811)                         |
+| Introduction to the Design and Analysis of Algorithms                                                                                              |     | Anany Levitin         | 12%       | [here](https://www.amazon.com/Introduction-Design-Analysis-Algorithms-3rd/dp/0132316811)                         |
 
 - I'm interested in diving into Machine Learning and Data Science. Despite that, I love technology in general and I get along well with any area im genuinely interested;
 - I learn best by doing. Most of my projects are idea i thought would be cool to bring to life.
