@@ -1,9 +1,9 @@
 <h1>Hi! My name is Miguel!</h1>
 	
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
-- I'm currently under a bachelor's degree in Computer Science by the Federal University of Pernambuco ([@cin-ufpe](https://github.com/cin-ufpe)), But im also a certified Systems Developer by ETE Porto Digital.
-- You can talk to me at: msnc@cin.ufpe.br;
-- Currently Exploring Machine Learning and Mathematics to do some cool stuff, and i'm also proficient at Front-end Development with Next/React;
+- Currently under a bachelor's degree in Computer Science by the Federal University of Pernambuco ([@cin-ufpe](https://github.com/cin-ufpe)), btw also a certified Systems Developer by ETE Porto Digital.
+- Proficient at Web Development, currently exploring Graphics Programming for the love of the game
+- Say hi: mglsndc@gmail.com
 - Reading:
 
 | Book                                                                                                            |  Author   |          Progress          | Link |                                                                                            |
