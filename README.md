@@ -1,4 +1,4 @@
-<h1>Hi! My name is Miguel!</h1>
+<h1>Hi, i'm Miguel</h1>
 	
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
 - Currently under a bachelor's degree in Computer Science by the Federal University of Pernambuco ([@cin-ufpe](https://github.com/cin-ufpe)), btw also a certified Systems Developer by ETE Porto Digital.
@@ -19,11 +19,5 @@
 
 
 - I'm interested in diving into Deep Learning and For Computer Vision. Despite that, I love technology in general and I get along well with any area im genuinely interested;
-- I learn best by doing. Most of my projects are idea i thought would be cool to bring to life.
-
-| Project      | Description                                            | Technologies                                       | Progress | Repo                                                       |
-| ------------ | ------------------------------------------------------ | -------------------------------------------------- | -------- | ---------------------------------------------------------- |
-| Terrain Simulation   | Perlin-noise based OpenGL Simulation of a Terrain | OpenGL, Shading, C++ | 10%     | [here](https://github.com/miguelsndc/perlin-terrain-generation)                |
-| Exxmon       | A movie website.                                       | Next.js, Styled Components                         | 100%     | [here](https://github.com/miguelsndc/exxmon)               |
-| Browk UI Kit | A UI component library built from scratch.             | React.js, TypeScript, Styled Components, Storybook | 100%     | [here](https://github.com/miguelsndc/browk-ui-kit)         |
+- I learn best by doing. Most of my projects are idea i thought would be cool to bring to life.   |
 | PPG          | A public photo gallery.                                | React.js, Firebase, Styled Components              | 100%     | [here](https://github.com/miguelsndc/public-photo-gallery) |
