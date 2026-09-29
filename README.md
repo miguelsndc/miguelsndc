@@ -3,7 +3,7 @@
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
 - Currently under a bachelor's degree in Computer Science by the Federal University of Pernambuco ([@cin-ufpe](https://github.com/cin-ufpe)), btw also a certified Systems Developer by ETE Porto Digital.
 - Proficient at Web Development, currently exploring Graphics Programming for the love of the game
-- Say hi: mglsndc@gmail.com
+- Say hi: msnogueira@proton.me
 - Reading:
 
 | Book                                                                                                            |  Author   |          Progress          | Link |                                                                                            |
