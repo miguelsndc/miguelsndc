@@ -1,23 +1,34 @@
-<h1>Hi, i'm Miguel</h1>
-	
+<h1>Hi, I'm Miguel</h1>
+
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
-- Currently under a bachelor's degree in Computer Science by the Federal University of Pernambuco ([@cin-ufpe](https://github.com/cin-ufpe)), btw also a certified Systems Developer by ETE Porto Digital.
-- Proficient at Web Development, currently exploring Graphics Programming for the love of the game
-- Say hi: msnogueira@proton.me
-- Reading:
 
-| Book                                                                                                            |  Author   |          Progress          | Link |                                                                                            |
-| --------------------------------------------------------------------------------------------------------------- | --- | ------------------------ | -------- | ------------------------------------------------------------------------------------------------ 
-| Álgebra Linear   | J L Boldrini   | 100%       | [here](https://www.amazon.com.br/%C3%81lgebra-Linear-J-L-Boldrini/dp/8529402022)  
-| Introduction to the Design and Analysis of Algorithms     | Anany Levitin         | 80%       | [here](https://www.amazon.com/Introduction-Design-Analysis-Algorithms-3rd/dp/0132316811)         
-| Calculus (Vol 2) - Guidorizzi    | Hamilton Luiz Guidorizzi         | 56%      | [here](https://www.amazon.com.br/Um-Curso-C%C3%A1lculo-Vol-Guidorizzi/dp/8521612591)    
-| Introduction to Algorithms  | Thomas H. Cormen       | 20%       | [here](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)   
-| Introduction to Statistical Learning    | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | 10%      | [here](https://www.statlearning.com/)
-| Dive Into Deep Learning |    Multiple Authors   | 8%   | [here](https://d2l.ai/)       
-| Álgebra Linear   | Elon Lages Lima  | 5%       | [here](https://www.amazon.com.br/Algebra-Linear-Elon-Lages-Lima/dp/8524400897)  
-| Multiple View Geometry in Computer Vision|     Richard Hartley      | 3%   | [here](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)                   
+- Currently pursuing a Bachelor's degree in Computer Science at the Federal University of Pernambuco ([@cin-ufpe](https://github.com/cin-ufpe)).
+- Also a certified Systems Developer by ETE Porto Digital.
+- I spend most of my time building things in Go, C and C++, with a particular interest in programming languages, backend systems and real-time applications.
+- I learn best by doing. Most of my projects start from something I simply thought would be interesting to understand or bring to life.
+- Say hi: [msnogueira@proton.me](mailto:msnogueira@proton.me)
+- LinkedIn: [linkedin.com/in/miguelnog](https://linkedin.com/in/miguelnog)
 
+## What I'm building
 
-- I'm interested in diving into Deep Learning and For Computer Vision. Despite that, I love technology in general and I get along well with any area im genuinely interested;
-- I learn best by doing. Most of my projects are idea i thought would be cool to bring to life.   |
-| PPG          | A public photo gallery.                                | React.js, Firebase, Styled Components              | 100%     | [here](https://github.com/miguelsndc/public-photo-gallery) |
+| Project | Description | Stack | Link |
+| --- | --- | --- | --- |
+| SabrinaC | A programming language based on the bytecode interpreter from *Crafting Interpreters*, reworked with custom syntax and extended while exploring lexing, parsing, bytecode compilation, virtual machines and garbage collection. | C | [GitHub](https://github.com/miguelsndc) |
+| take-the-crown | A real-time multiplayer browser game built around an authoritative server, room-owned game state, fixed-tick simulation and client/server synchronization. | Go, WebSockets, JavaScript | [GitHub](https://github.com/miguelsndc) |
+| rate-limiter | A case study implementing and comparing multiple rate-limiting strategies from scratch, including Token Bucket, Sliding Window and Leaky Bucket policer/shaper variants, with concurrency tests, HTTP middleware and benchmarks. | Go | [GitHub](https://github.com/miguelsndc) |
+
+## Reading
+
+| Book | Author | Progress |
+| --- | --- | --- |
+| Crafting Interpreters | Robert Nystrom | 42% |
+| Computational Geometry | Mark de Berg et al. | 27% |
+| Designing Data-Intensive Applications | Martin Kleppmann | 10% |
+| The Silence of the Lambs | Thomas Harris | 12% |
+
+## A bit more about me
+
+- I'm particularly interested in understanding how things work below the surface rather than only using existing abstractions.
+- Competitive programming has strongly influenced how I approach algorithms, problem solving and implementation.
+- I like projects where there is something concrete to investigate: performance trade-offs, networking behavior, language implementation, concurrency or architecture.
+- Not every project needs to become a product. Sometimes building the thing is the point.
